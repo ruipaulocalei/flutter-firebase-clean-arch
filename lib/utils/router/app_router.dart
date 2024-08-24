@@ -1,5 +1,5 @@
 import 'package:go_router/go_router.dart';
-import 'package:hello_flutter_mac_app/features/jobs/screens/job_screen.dart';
+import 'package:hello_flutter_mac_app/features/jobs/presentation/screens/jobs_screen.dart';
 
 enum AppRouter { home }
 
