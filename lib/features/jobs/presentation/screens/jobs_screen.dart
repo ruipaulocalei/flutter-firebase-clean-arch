@@ -33,6 +33,10 @@ class JobScreen extends ConsumerWidget {
                 itemBuilder: (BuildContext context, int index) {
                   final job = jobs[index];
                   return Card(
+                    margin: const EdgeInsets.symmetric(
+                      horizontal: 12,
+                      vertical: 6,
+                    ),
                     child: ListTile(
                       title: Text(
                         job.title,

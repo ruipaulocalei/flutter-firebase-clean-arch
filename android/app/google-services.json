@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477894858659",
+    "project_id": "gestaoprojecto-b41ff",
+    "storage_bucket": "gestaoprojecto-b41ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477894858659:android:fd5ba89124117359b96c16",
+        "android_client_info": {
+          "package_name": "com.example.hello_flutter_mac_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477894858659-mbvn00fkllgeg52u3tjjsohmfb17oi08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzFNYa50H99VMPR7nx4nw7XRxy7YHX7Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477894858659-mbvn00fkllgeg52u3tjjsohmfb17oi08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

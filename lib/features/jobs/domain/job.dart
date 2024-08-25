@@ -12,4 +12,7 @@ class Job {
     required this.description,
     required this.salary,
   });
+
+  @override
+  String toString() => 'Product(id: $id, title: $title, description: $description, salary: $salary)';
 }
